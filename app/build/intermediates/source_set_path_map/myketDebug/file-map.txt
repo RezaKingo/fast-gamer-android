@@ -1,0 +1,68 @@
+com.ra7.fastgamer.app-room-runtime-2.5.0-0 C:\Users\king\.gradle\caches\transforms-3\0e6e783cb36f8adc5fe22b783edf053f\transformed\room-runtime-2.5.0\res
+com.ra7.fastgamer.app-constraintlayout-2.1.4-1 C:\Users\king\.gradle\caches\transforms-3\10ef5c800f0438d990ddacdea2f411dc\transformed\constraintlayout-2.1.4\res
+com.ra7.fastgamer.app-drawerlayout-1.1.1-2 C:\Users\king\.gradle\caches\transforms-3\18d061e9c2a9596def51e23c3367f373\transformed\drawerlayout-1.1.1\res
+com.ra7.fastgamer.app-databinding-runtime-7.3.1-3 C:\Users\king\.gradle\caches\transforms-3\19ef0ae55da8108869408e117f165c94\transformed\databinding-runtime-7.3.1\res
+com.ra7.fastgamer.app-slidingpanelayout-1.2.0-4 C:\Users\king\.gradle\caches\transforms-3\1f0558da397e6163e059083a1c53b7f4\transformed\slidingpanelayout-1.2.0\res
+com.ra7.fastgamer.app-core-ktx-1.9.0-5 C:\Users\king\.gradle\caches\transforms-3\2764e37ba38b66e2fd8ed09f6fd03bf6\transformed\core-ktx-1.9.0\res
+com.ra7.fastgamer.app-emoji2-1.2.0-6 C:\Users\king\.gradle\caches\transforms-3\2c150253de1c083c26ab5611a6ec986d\transformed\emoji2-1.2.0\res
+com.ra7.fastgamer.app-sms-confirmation-view-1.7.1-7 C:\Users\king\.gradle\caches\transforms-3\33af226ab120e58b6b50a26e070ec457\transformed\sms-confirmation-view-1.7.1\res
+com.ra7.fastgamer.app-navigation-ui-2.5.3-8 C:\Users\king\.gradle\caches\transforms-3\375fd37dd44e01f7690f2dbeda877cff\transformed\navigation-ui-2.5.3\res
+com.ra7.fastgamer.app-transition-1.4.1-9 C:\Users\king\.gradle\caches\transforms-3\38e5efa0afc148c4c79eafdbd58e64ec\transformed\transition-1.4.1\res
+com.ra7.fastgamer.app-lifecycle-livedata-2.4.0-10 C:\Users\king\.gradle\caches\transforms-3\3963b23bf0293f313f1f37a0d7962b4a\transformed\lifecycle-livedata-2.4.0\res
+com.ra7.fastgamer.app-navigation-fragment-2.5.3-11 C:\Users\king\.gradle\caches\transforms-3\44687fa3f19198441a5451e1139faf70\transformed\navigation-fragment-2.5.3\res
+com.ra7.fastgamer.app-sqlite-framework-2.3.0-12 C:\Users\king\.gradle\caches\transforms-3\5a48b1aef184ed2ee095537a35816626\transformed\sqlite-framework-2.3.0\res
+com.ra7.fastgamer.app-lifecycle-runtime-ktx-2.5.1-13 C:\Users\king\.gradle\caches\transforms-3\5c805b39dab6fd3a9930a19d346ac57c\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.ra7.fastgamer.app-ssp-android-1.0.6-14 C:\Users\king\.gradle\caches\transforms-3\62c9a4bfd4b8bb0bc5b8a23d0df14ad6\transformed\ssp-android-1.0.6\res
+com.ra7.fastgamer.app-startup-runtime-1.1.1-15 C:\Users\king\.gradle\caches\transforms-3\6c917919aa93e2822794efaf6b8e3811\transformed\startup-runtime-1.1.1\res
+com.ra7.fastgamer.app-fragment-1.6.0-alpha04-16 C:\Users\king\.gradle\caches\transforms-3\6f6e1e22e6e9e1e7583e0eec13eb472d\transformed\fragment-1.6.0-alpha04\res
+com.ra7.fastgamer.app-navigation-ui-ktx-2.5.3-17 C:\Users\king\.gradle\caches\transforms-3\753b4ed5e058e92689090f55892e57d1\transformed\navigation-ui-ktx-2.5.3\res
+com.ra7.fastgamer.app-savedstate-1.2.0-18 C:\Users\king\.gradle\caches\transforms-3\7a7395cbcec20cd7130a8b5e97ac91f1\transformed\savedstate-1.2.0\res
+com.ra7.fastgamer.app-emoji2-views-helper-1.2.0-19 C:\Users\king\.gradle\caches\transforms-3\7e5918e0c1b5c8883cc26d932ea6b80b\transformed\emoji2-views-helper-1.2.0\res
+com.ra7.fastgamer.app-activity-ktx-1.6.0-20 C:\Users\king\.gradle\caches\transforms-3\7efaa7a15857f3c148e1c37bcc9a7f61\transformed\activity-ktx-1.6.0\res
+com.ra7.fastgamer.app-viewpager2-1.0.0-21 C:\Users\king\.gradle\caches\transforms-3\84aad0389a88bdec4449e39635b8a039\transformed\viewpager2-1.0.0\res
+com.ra7.fastgamer.app-sqlite-2.3.0-22 C:\Users\king\.gradle\caches\transforms-3\84dae6fc9269acffc12a88fb02ac2e83\transformed\sqlite-2.3.0\res
+com.ra7.fastgamer.app-material-1.9.0-23 C:\Users\king\.gradle\caches\transforms-3\8f4170f252d4516090e7b3afaeef4426\transformed\material-1.9.0\res
+com.ra7.fastgamer.app-annotation-experimental-1.3.0-24 C:\Users\king\.gradle\caches\transforms-3\9119647140b944d16094bff5573a4290\transformed\annotation-experimental-1.3.0\res
+com.ra7.fastgamer.app-glide-4.14.2-25 C:\Users\king\.gradle\caches\transforms-3\92db4ef30fafe76c45677edc2cb629b0\transformed\glide-4.14.2\res
+com.ra7.fastgamer.app-recyclerview-1.1.0-26 C:\Users\king\.gradle\caches\transforms-3\9d1572913aa014824688b06b6a9a885d\transformed\recyclerview-1.1.0\res
+com.ra7.fastgamer.app-cardview-1.0.0-27 C:\Users\king\.gradle\caches\transforms-3\9d8674fd449f4ae2b80fd378430e239e\transformed\cardview-1.0.0\res
+com.ra7.fastgamer.app-play-services-auth-20.2.0-28 C:\Users\king\.gradle\caches\transforms-3\9fb8c2fda826ebf10988e22363f06dac\transformed\play-services-auth-20.2.0\res
+com.ra7.fastgamer.app-lifecycle-process-2.4.1-29 C:\Users\king\.gradle\caches\transforms-3\a2110eb22846f36fa5a09e6dd73c6889\transformed\lifecycle-process-2.4.1\res
+com.ra7.fastgamer.app-lifecycle-viewmodel-savedstate-2.5.1-30 C:\Users\king\.gradle\caches\transforms-3\a43a8ea1b7aa80afa07e670f4d494651\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.ra7.fastgamer.app-activity-1.6.0-31 C:\Users\king\.gradle\caches\transforms-3\a62b0105eaedc3e576619e65dcca81fc\transformed\activity-1.6.0\res
+com.ra7.fastgamer.app-PersianDate-1.5.4-32 C:\Users\king\.gradle\caches\transforms-3\aac8cf8d015198f8aa90b5c6af477f9e\transformed\PersianDate-1.5.4\res
+com.ra7.fastgamer.app-lottie-5.2.0-33 C:\Users\king\.gradle\caches\transforms-3\af99dae00c098457f0d970add403788a\transformed\lottie-5.2.0\res
+com.ra7.fastgamer.app-lifecycle-service-2.4.0-34 C:\Users\king\.gradle\caches\transforms-3\b28edae04fd6bdf2f1a9c1c2318c9607\transformed\lifecycle-service-2.4.0\res
+com.ra7.fastgamer.app-appcompat-1.6.1-35 C:\Users\king\.gradle\caches\transforms-3\ba3ff2d735294db44c08c2ba53954f07\transformed\appcompat-1.6.1\res
+com.ra7.fastgamer.app-library-2.4-36 C:\Users\king\.gradle\caches\transforms-3\bcf7979858ee2f7d8e532e2faa7428cc\transformed\library-2.4\res
+com.ra7.fastgamer.app-play-services-basement-18.0.0-37 C:\Users\king\.gradle\caches\transforms-3\be2b6752c6df05a72343e036a3b9a988\transformed\play-services-basement-18.0.0\res
+com.ra7.fastgamer.app-lifecycle-livedata-core-ktx-2.5.1-38 C:\Users\king\.gradle\caches\transforms-3\bee54feeb5ec0ccf63a083de0d238377\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.ra7.fastgamer.app-play-services-base-18.0.1-39 C:\Users\king\.gradle\caches\transforms-3\c18851d1ecf335ae806b651dd2c01db9\transformed\play-services-base-18.0.1\res
+com.ra7.fastgamer.app-sdp-android-1.0.6-40 C:\Users\king\.gradle\caches\transforms-3\c5ab83259f0050151807e1a594bfc353\transformed\sdp-android-1.0.6\res
+com.ra7.fastgamer.app-savedstate-ktx-1.2.0-41 C:\Users\king\.gradle\caches\transforms-3\ca47e1eb024450b26fe94453208b9715\transformed\savedstate-ktx-1.2.0\res
+com.ra7.fastgamer.app-databinding-adapters-7.3.1-42 C:\Users\king\.gradle\caches\transforms-3\cfb9499e018dbbc156f06614149a36a8\transformed\databinding-adapters-7.3.1\res
+com.ra7.fastgamer.app-lifecycle-viewmodel-ktx-2.5.1-43 C:\Users\king\.gradle\caches\transforms-3\d2962ecbc7d995e83f92ca8aa0cce530\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.ra7.fastgamer.app-navigation-common-ktx-2.5.3-44 C:\Users\king\.gradle\caches\transforms-3\d3bfa5a60f8326e0e037bc8688f30c2d\transformed\navigation-common-ktx-2.5.3\res
+com.ra7.fastgamer.app-lifecycle-runtime-2.5.1-45 C:\Users\king\.gradle\caches\transforms-3\d617d993b004b46b82df11e5fc0038ee\transformed\lifecycle-runtime-2.5.1\res
+com.ra7.fastgamer.app-lifecycle-viewmodel-2.5.1-46 C:\Users\king\.gradle\caches\transforms-3\d6fc50913b10766d4370a303e12c1ab0\transformed\lifecycle-viewmodel-2.5.1\res
+com.ra7.fastgamer.app-navigation-runtime-ktx-2.5.3-47 C:\Users\king\.gradle\caches\transforms-3\d8bdd0eaba272af226acac8580a90350\transformed\navigation-runtime-ktx-2.5.3\res
+com.ra7.fastgamer.app-window-1.0.0-48 C:\Users\king\.gradle\caches\transforms-3\dff3473c45245d0d55f262838a43fc9b\transformed\window-1.0.0\res
+com.ra7.fastgamer.app-navigation-runtime-2.5.3-49 C:\Users\king\.gradle\caches\transforms-3\e22d6d89751713298c152d3ef712f6b3\transformed\navigation-runtime-2.5.3\res
+com.ra7.fastgamer.app-fragment-ktx-1.6.0-alpha04-50 C:\Users\king\.gradle\caches\transforms-3\e49c3ac27d99eb46afea695d6c67039b\transformed\fragment-ktx-1.6.0-alpha04\res
+com.ra7.fastgamer.app-appcompat-resources-1.6.1-51 C:\Users\king\.gradle\caches\transforms-3\e6c9106414fc83a714776d1a31592e59\transformed\appcompat-resources-1.6.1\res
+com.ra7.fastgamer.app-core-1.9.0-52 C:\Users\king\.gradle\caches\transforms-3\e6db63b07e3dda3943eaa7417f4d0aae\transformed\core-1.9.0\res
+com.ra7.fastgamer.app-materialicons-1.0.3-53 C:\Users\king\.gradle\caches\transforms-3\f518fcc6a9f8555dc18dcca5ad53a9fe\transformed\materialicons-1.0.3\res
+com.ra7.fastgamer.app-navigation-fragment-ktx-2.5.3-54 C:\Users\king\.gradle\caches\transforms-3\f5ef4ad263c0a1d643075755d66b75cb\transformed\navigation-fragment-ktx-2.5.3\res
+com.ra7.fastgamer.app-coordinatorlayout-1.1.0-55 C:\Users\king\.gradle\caches\transforms-3\f65505b8bfd41ffe360e4b05a13de7e2\transformed\coordinatorlayout-1.1.0\res
+com.ra7.fastgamer.app-lifecycle-livedata-core-2.5.1-56 C:\Users\king\.gradle\caches\transforms-3\f8b242e2ac3351d09b635d176a93297b\transformed\lifecycle-livedata-core-2.5.1\res
+com.ra7.fastgamer.app-navigation-common-2.5.3-57 C:\Users\king\.gradle\caches\transforms-3\f9abc1506a979ab772c696b7b40f9a33\transformed\navigation-common-2.5.3\res
+com.ra7.fastgamer.app-myket-58 E:\Android\Android - 1402\Reza\FastGamer\app\build\generated\res\pngs\myket\debug
+com.ra7.fastgamer.app-myket-59 E:\Android\Android - 1402\Reza\FastGamer\app\build\generated\res\resValues\myket\debug
+com.ra7.fastgamer.app-myket-60 E:\Android\Android - 1402\Reza\FastGamer\app\build\generated\res\rs\myket\debug
+com.ra7.fastgamer.app-packageMyketDebugResources-61 E:\Android\Android - 1402\Reza\FastGamer\app\build\intermediates\incremental\myketDebug\packageMyketDebugResources\merged.dir
+com.ra7.fastgamer.app-packageMyketDebugResources-62 E:\Android\Android - 1402\Reza\FastGamer\app\build\intermediates\incremental\myketDebug\packageMyketDebugResources\stripped.dir
+com.ra7.fastgamer.app-merged_res-63 E:\Android\Android - 1402\Reza\FastGamer\app\build\intermediates\merged_res\myketDebug
+com.ra7.fastgamer.app-debug-64 E:\Android\Android - 1402\Reza\FastGamer\app\src\debug\res
+com.ra7.fastgamer.app-main-65 E:\Android\Android - 1402\Reza\FastGamer\app\src\main\res
+com.ra7.fastgamer.app-myket-66 E:\Android\Android - 1402\Reza\FastGamer\app\src\myket\res
+com.ra7.fastgamer.app-myketDebug-67 E:\Android\Android - 1402\Reza\FastGamer\app\src\myketDebug\res
